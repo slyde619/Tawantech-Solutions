@@ -1,0 +1,197 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "products": "Products",
+    "solutions": "Solutions",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Technology Solutions Provider",
+    "title": "Empowering",
+    "titleHighlight": "Digital",
+    "titleEnd": "Transformation",
+    "typingPhrases": [
+      "Digital Transformation",
+      "Innovation",
+      "Excellence",
+      "Growth",
+      "Success"
+    ],
+    "description": "Transform your business with cutting-edge technology solutions. We deliver secure, scalable, and innovative IT services and products for the digital age.",
+    "cta1": "Get Started",
+    "cta2": "Explore Services"
+  },
+  "partners": {
+    "title": "Trusted by Industry Leaders"
+  },
+  "services": {
+    "badge": "What We Offer",
+    "title": "Our Services",
+    "description": "Comprehensive IT services designed to support and enhance your technology infrastructure",
+    "items": {
+      "integration": {
+        "title": "System Integration",
+        "description": "Seamlessly integrate diverse systems and applications to create a unified, efficient technology infrastructure."
+      },
+      "maintenance": {
+        "title": "Maintenance & Support",
+        "description": "Comprehensive maintenance and technical support services to ensure optimal system performance and reliability."
+      },
+      "cloud": {
+        "title": "Cloud Services",
+        "description": "Scalable cloud solutions and infrastructure management for enhanced flexibility and cost-efficiency."
+      },
+      "training": {
+        "title": "Training & Capacity Building",
+        "description": "Professional training programs and capacity building initiatives to empower your team with essential skills."
+      }
+    },
+    "learnMore": "Learn more"
+  },
+  "products": {
+    "badge": "What We Build",
+    "title": "Our Products",
+    "description": "Innovative technology products designed to meet the evolving needs of financial institutions",
+    "items": {
+      "storage": {
+        "title": "Data Storage & Software",
+        "description": "Robust data storage solutions and enterprise software systems for efficient data management and operations."
+      },
+      "payment": {
+        "title": "Payment Process",
+        "description": "Secure and efficient payment processing systems designed for seamless financial transactions."
+      },
+      "infrastructure": {
+        "title": "Payment Infrastructure",
+        "description": "Complete payment infrastructure solutions to support modern digital payment ecosystems."
+      },
+      "security": {
+        "title": "Cyber Security & Networks",
+        "description": "Advanced cybersecurity solutions and network infrastructure to protect your digital assets."
+      }
+    },
+    "learnMore": "Learn more"
+  },
+  "solutions": {
+    "badge": "Complete Solutions",
+    "title": "Integrated Solutions",
+    "description": "Comprehensive technology solutions that combine our services and products for maximum impact",
+    "items": {
+      "enterprise": {
+        "title": "Enterprise Solutions",
+        "description": "End-to-end enterprise technology solutions tailored to your business needs",
+        "features": [
+          "System Integration & Architecture",
+          "Cloud Infrastructure Management",
+          "Enterprise Software Development",
+          "Data Center Solutions"
+        ]
+      },
+      "fintech": {
+        "title": "Financial Technology",
+        "description": "Advanced fintech solutions for modern financial institutions",
+        "features": [
+          "Payment Processing Systems",
+          "Digital Banking Platforms",
+          "Transaction Security",
+          "Regulatory Compliance Tools"
+        ]
+      },
+      "securityNet": {
+        "title": "Security & Networks",
+        "description": "Comprehensive security and networking solutions to protect your infrastructure",
+        "features": [
+          "Cybersecurity Assessment",
+          "Network Design & Implementation",
+          "Threat Detection & Prevention",
+          "24/7 Security Monitoring"
+        ]
+      }
+    },
+    "exploreSolution": "Explore solution"
+  },
+  "stats": {
+    "clients": "Active Clients",
+    "volume": "Processed Volume",
+    "uptime": "Uptime",
+    "support": "Support"
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "Who We Are",
+    "description": "We are TAWANTECH, a dynamic and innovative company that specializes in financial technology solutions and services. With a team of passionate professionals and a commitment to excellence, we are dedicated to delivering exceptional solutions that meet the unique needs of our clients.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "Our mission is to empower organizations with cutting-edge financial technology solutions that enable them to thrive in today's rapidly evolving business landscape. We strive to deliver innovative and tailored solutions that address the unique needs and challenges of our clients, helping them achieve their goals and stay ahead of the competition."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be a mature and profitable multinational company operated by world-class professionals in an empowering environment."
+    },
+    "values": {
+      "title": "Our Values",
+      "items": [
+        "Trust and loyalty in our business relationships with all stakeholders",
+        "Solutions that offer measurable value to the client and the company",
+        "An environment that encourages growth, diligence and adequate compensation",
+        "Integrated solutions that require practical and functional teams",
+        "A community where members support and promote each other's well-being"
+      ]
+    }
+  },
+  "contact": {
+    "badge": "Get in Touch",
+    "title": "Let's Build Something Great Together",
+    "description": "Ready to transform your technology infrastructure? Our team is here to help you navigate the future of digital transformation.",
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location",
+      "locationValue": "Riyadh, Saudi Arabia"
+    },
+    "form": {
+      "firstName": "First Name",
+      "firstNamePlaceholder": "John",
+      "lastName": "Last Name",
+      "lastNamePlaceholder": "Doe",
+      "email": "Email",
+      "emailPlaceholder": "john@company.com",
+      "company": "Company",
+      "companyPlaceholder": "Your Company",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your project...",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "Leading financial technology solutions provider in Saudi Arabia.",
+    "services": "Services",
+    "products": "Products",
+    "company": "Company",
+    "connect": "Connect",
+    "companyLinks": {
+      "solutions": "Solutions",
+      "about": "About Us",
+      "careers": "Careers",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "servicesLinks": {
+      "integration": "System Integration",
+      "maintenance": "Maintenance & Support",
+      "cloud": "Cloud Services",
+      "training": "Training & Capacity"
+    },
+    "productsLinks": {
+      "storage": "Data Storage & Software",
+      "payment": "Payment Process",
+      "infrastructure": "Payment Infrastructure",
+      "security": "Cyber Security"
+    },
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
