@@ -175,7 +175,7 @@ const Footer = () => {
 
         <div className="pt-8 border-t border-gray-900 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-sm text-gray-400">
-            © {2023 - new Date().getFullYear()} Tawan Tech. {t("footer.rights")}
+            © {2023 - new Date().getFullYear()} Tawantech. {t("footer.rights")}
           </p>
           <div className="flex gap-6 text-sm">
             <a
